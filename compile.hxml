@@ -1,0 +1,21 @@
+-swf-header 500:30:60:777777
+-swf-version 10
+-swf bin/FFTTimingTest.swf
+-cp src
+-main hxa.flash.apps.FFTTimingTest
+
+--next
+
+-swf-header 600:600:30:FFFFFF
+-swf-version 10
+-swf bin/SpectroscopeViewer.swf
+-cp src
+-main hxa.flash.apps.SpectroscopeViewer
+
+--next
+
+-swf-header 600:430:30:FFFFFF
+-swf-version 10
+-swf bin/SpectrumViewer.swf
+-cp src
+-main hxa.flash.apps.SpectrumViewer

@@ -1,0 +1,5 @@
+-swf-header 500:30:60:777777
+-swf-version 10
+-swf FFTTimingTest.swf
+-cp src
+-main hxa.flash.apps.FFTTimingTest

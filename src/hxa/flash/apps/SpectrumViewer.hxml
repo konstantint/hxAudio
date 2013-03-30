@@ -1,0 +1,5 @@
+-swf-header 600:430:30:FFFFFF
+-swf-version 10
+-swf SpectrumViewer.swf
+-cp src
+-main hxa.flash.apps.SpectrumViewer
