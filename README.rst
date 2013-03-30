@@ -13,7 +13,7 @@ Usage
 -----
 There's not too much documentation, but there are some examples which might help. 
 To build, open hxAudio.hxproj in FlashDevelop and hit "build". 
-Alternatively, you can compile the code with haxe from the command line:
+Alternatively, you can compile the code with haxe from the command line::
 
     $ haxe compile.hxml
 
@@ -25,10 +25,12 @@ Credits
 Copyright (C) 2013, Konstantin Tretyakov.
 
 The project is largely based on the work by:
-* Gerald T. Beauregard (http://gerrybeauregard.wordpress.com/2010/08/03/an-even-faster-as3-fft/)
-* Rigondo (http://rigondo.wordpress.com/2011/08/18/9/)
-* Antoine Schmitt (http://www.schmittmachine.com/dywapitchtrack.html)
+
+* `Gerald T. Beauregard <http://gerrybeauregard.wordpress.com/2010/08/03/an-even-faster-as3-fft/>`_
+* `Rigondo <http://rigondo.wordpress.com/2011/08/18/9/>`_
+* `Antoine Schmitt <http://www.schmittmachine.com/dywapitchtrack.html>`_
 * Nate Cook & the Caffeine-hx project.
+
 (see remarks in the corresponding source files)
 
 The code is MIT-licensed, except for `util/Sprintf.hx`.
